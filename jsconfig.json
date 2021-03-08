@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "start": ["NODE_PATH=./src react-scripts start"]
+    }
+  }
+}
